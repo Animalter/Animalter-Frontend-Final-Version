@@ -1,0 +1,6 @@
+@AnimalterV2.Server_HostAddress = http://localhost:5291
+
+GET {{AnimalterV2.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
